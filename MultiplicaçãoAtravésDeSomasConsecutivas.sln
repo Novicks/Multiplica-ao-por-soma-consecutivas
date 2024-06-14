@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicaçãoAtravésDeSomasConsecutivas", "MultiplicaçãoAtravésDeSomasConsecutivas.csproj", "{DC556EF7-E9E0-4237-B29E-D35FB02AFFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC556EF7-E9E0-4237-B29E-D35FB02AFFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC556EF7-E9E0-4237-B29E-D35FB02AFFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC556EF7-E9E0-4237-B29E-D35FB02AFFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC556EF7-E9E0-4237-B29E-D35FB02AFFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A8EBB4-5215-40B4-8282-439BA069AEEE}
+	EndGlobalSection
+EndGlobal
